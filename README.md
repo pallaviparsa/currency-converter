@@ -51,4 +51,4 @@ To use real-time exchange rates, you can integrate an API like:
 
 1. Clone the repository or download the files:
    ```bash
-   git clone https://github.com/your-username/currency-converter.git
+   git clone https://github.com/pallaviparsa/currency-converter.git
